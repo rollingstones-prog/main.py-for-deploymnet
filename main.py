@@ -151,10 +151,15 @@ async def webhook(request: Request):
 
     # ✅ Yahan se reply bhejna hoga
     if msg_text and from_msisdn:
+        # If it's a boss message, call the boss command handler
+        if from_msisdn == BOSS_WA_ID:
+            handle_boss_command(msg_text, from_msisdn)  # Call to handle boss's command
+
         reply_text = f"Apka message mila: {msg_text}"
         whatsapp_send_text(from_msisdn, reply_text)
 
     return {"status": "ok"}
+
 
 # Environment Variables
 WA_TOKEN = os.getenv("WA_TOKEN")
