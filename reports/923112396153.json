@@ -1,0 +1,594 @@
+{
+  "thread_id": "923112396153",
+  "name": "Aman",
+  "messages": [
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hello",
+      "ts": "2025-09-15T19:19:07.064108"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hellooo",
+      "ts": "2025-09-15T20:26:12.834119"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hii",
+      "ts": "2025-09-15T20:29:55.953749"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hello",
+      "ts": "2025-09-15T20:30:12.155658"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Bt suno",
+      "ts": "2025-09-15T20:30:34.531381"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "I   Hello",
+      "ts": "2025-09-15T20:38:15.463660"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "H",
+      "ts": "2025-09-16T11:36:30.729530"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "👀",
+      "ts": "2025-09-16T11:36:52.141631"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "-_-",
+      "ts": "2025-09-16T11:37:05.821462"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hello Honey boney",
+      "ts": "2025-09-16T12:45:02.597317"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Heyyaaaaa",
+      "ts": "2025-09-16T12:51:11.193980"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Shazaib",
+      "ts": "2025-09-16T12:51:29.045479"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hi",
+      "ts": "2025-09-16T13:16:33.299811"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aaa",
+      "ts": "2025-09-16T13:17:10.189744"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hui",
+      "ts": "2025-09-16T13:17:19.434353"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hh",
+      "ts": "2025-09-16T13:17:29.501296"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Oye kia krha hy ? khana kab khaygy ?  sorry",
+      "ts": "2025-09-16T13:18:02.948470"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hi",
+      "ts": "2025-09-16T13:20:01.154666"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Yyyy",
+      "ts": "2025-09-16T13:21:24.019019"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Ppakkk",
+      "ts": "2025-09-16T13:22:31.659236"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Ggg",
+      "ts": "2025-09-16T13:23:04.372497"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hh",
+      "ts": "2025-09-16T13:23:11.404480"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Qqq",
+      "ts": "2025-09-16T13:24:17.108107"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Janan",
+      "ts": "2025-09-16T13:24:51.108215"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "-_-",
+      "ts": "2025-09-16T13:28:22.820660"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hahsudhdhdudh",
+      "ts": "2025-09-16T13:29:37.630773"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Shhhhh",
+      "ts": "2025-09-16T13:30:54.632774"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "✨",
+      "ts": "2025-09-16T13:31:55.839865"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Ll",
+      "ts": "2025-09-16T13:33:25.541809"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "My chuld",
+      "ts": "2025-09-16T13:33:51.784228"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Uy",
+      "ts": "2025-09-16T13:34:29.094798"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Sun",
+      "ts": "2025-09-16T13:35:18.448150"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hi",
+      "ts": "2025-09-16T13:35:36.072250"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Fahad",
+      "ts": "2025-09-16T13:36:49.104751"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "raten guzari tere bin",
+      "ts": "2025-09-16T13:37:20.279952"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "-",
+      "ts": "2025-09-16T13:42:31.295725"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "R u",
+      "ts": "2025-09-16T13:42:43.805113"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "M",
+      "ts": "2025-09-16T13:45:32.453313"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Jani",
+      "ts": "2025-09-16T13:46:18.439125"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hi",
+      "ts": "2025-09-16T13:48:02.285532"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hi",
+      "ts": "2025-09-16T13:50:26.005940"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Ty",
+      "ts": "2025-09-16T13:50:38.294410"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Han jani",
+      "ts": "2025-09-16T13:53:14.981921"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Janii",
+      "ts": "2025-09-16T13:55:46.932991"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Ppj",
+      "ts": "2025-09-16T13:58:25.425880"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Gawk gawkhh",
+      "ts": "2025-09-16T14:02:11.363856"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Vv",
+      "ts": "2025-09-16T14:02:22.103457"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Dreamzz",
+      "ts": "2025-09-16T14:02:38.295154"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Sunye",
+      "ts": "2025-09-16T14:05:20.597094"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Kani",
+      "ts": "2025-09-16T14:06:19.725316"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Gyy",
+      "ts": "2025-09-16T14:09:30.516717"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hujj",
+      "ts": "2025-09-16T14:09:32.141326"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Vh",
+      "ts": "2025-09-16T14:09:33.824775"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hi",
+      "ts": "2025-09-16T14:13:56.707875"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "—____",
+      "ts": "2025-09-16T14:14:47.967044"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Do",
+      "ts": "2025-09-16T14:16:30.791362"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "-__",
+      "ts": "2025-09-16T14:22:04.340810"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "——____——-",
+      "ts": "2025-09-16T14:23:33.851660"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Abcrd",
+      "ts": "2025-09-16T14:24:55.115714"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Asalamualikum",
+      "ts": "2025-09-16T14:25:29.036752"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Bye bye",
+      "ts": "2025-09-16T14:26:53.811094"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Sunen",
+      "ts": "2025-09-16T14:30:37.937977"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hii",
+      "ts": "2025-09-16T14:31:02.952901"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aqqqq",
+      "ts": "2025-09-16T14:31:12.271122"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Jana",
+      "ts": "2025-09-16T15:14:23.042619"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Help",
+      "ts": "2025-09-16T15:16:15.258953"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Au",
+      "ts": "2025-09-16T15:16:33.086238"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Tidipa",
+      "ts": "2025-09-16T15:28:11.506153"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Ugcyftcut",
+      "ts": "2025-09-16T15:32:18.933383"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "-___",
+      "ts": "2025-09-16T15:41:54.669146"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Message",
+      "ts": "2025-09-16T15:41:56.253655"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Vvb",
+      "ts": "2025-09-16T15:41:57.822459"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hg",
+      "ts": "2025-09-16T15:42:05.146306"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hello",
+      "ts": "2025-09-16T15:44:06.743077"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hahahdhdh",
+      "ts": "2025-09-16T15:49:22.460448"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Kaisee khuu",
+      "ts": "2025-09-16T16:22:12.300258"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hi",
+      "ts": "2025-09-16T16:22:58.529108"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Q",
+      "ts": "2025-09-16T16:26:05.725399"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hgahaha",
+      "ts": "2025-09-16T16:27:41.047485"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "B",
+      "ts": "2025-09-16T16:29:50.462174"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Bb",
+      "ts": "2025-09-16T16:31:56.093691"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Gg",
+      "ts": "2025-09-16T16:38:36.564993"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Re",
+      "ts": "2025-09-17T11:24:35.651863"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hhh",
+      "ts": "2025-09-17T11:24:46.262037"
+    }
+  ]
+}

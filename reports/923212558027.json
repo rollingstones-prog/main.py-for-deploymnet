@@ -1,0 +1,417 @@
+{
+  "thread_id": "923212558027",
+  "name": "Hafiz",
+  "messages": [
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "yaha aj ki sari detailbhej asharoib ye msgs meh data save shai kro isisliye krha hu oay ?  serious nh lena",
+      "ts": "2025-09-14T12:26:17.525346"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aj Ai Whatsap Bot meh apka number add krdia hy as an operator you can send msgs To bot .By this Command @working <Name> | Msg.....\n\nBut there's a One Issue Which is reporting employee ki report Text ki forward huri hy But Pdf/Image Forward nh huri \nBaki Analysis Well hy Both Side se  \n\n\n\nAi Call Center setup ka Stack Change krne ka bola Exotel A",
+      "ts": "2025-09-14T12:26:42.720071"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> BOSS (document)",
+      "type": "text",
+      "text": "Bulk-Messaging-and-AI-Automation-Proposal-Car-Transportation-Business-USA.pdf",
+      "ts": "2025-09-14T12:26:54.561257"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE_MEDIA",
+      "type": "document",
+      "filename": "doc_20250914_122645.pdf",
+      "media_id": "1699115547456921",
+      "local_path": "media\\Hafiz\\2025-09-14\\doc_20250914_122645.pdf",
+      "ts": "2025-09-14T12:26:54.571659"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> BOSS (image)",
+      "type": "text",
+      "text": "image_20250914_122657.jpg",
+      "ts": "2025-09-14T12:27:03.636231"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE_MEDIA",
+      "type": "image",
+      "filename": "image_20250914_122657.jpg",
+      "media_id": "4210200929199149",
+      "local_path": "media\\Hafiz\\2025-09-14\\image_20250914_122657.jpg",
+      "ts": "2025-09-14T12:27:03.646097"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": ".",
+      "ts": "2025-09-14T12:44:15.031690"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "report Share kardi hyna pany tu > Ok 200",
+      "ts": "2025-09-15T10:57:29.023443"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "This is a testing msg by a agent For Data looging checked",
+      "ts": "2025-09-15T11:29:43.382540"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> BOSS (image)",
+      "type": "text",
+      "text": "image_20250915_113003.jpg",
+      "ts": "2025-09-15T11:30:08.356105"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE_MEDIA",
+      "type": "image",
+      "filename": "image_20250915_113003.jpg",
+      "media_id": "821979610505743",
+      "local_path": "media\\Hafiz\\2025-09-15\\image_20250915_113003.jpg",
+      "ts": "2025-09-15T11:30:08.366391"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aj Ai Whatsap Bot meh apka number add krdia hy as an operator you can send msgs To bot .By this Command @working <Name> | Msg.....\n\nBut there's a One Issue Which is reporting employee ki report Text ki forward huri hy But Pdf/Image Forward nh huri \nBaki Analysis Well hy Both Side se  \n\n\n\nAi Call Center setup ka Stack Change krne ka bola Exotel A",
+      "ts": "2025-09-15T11:30:10.668354"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Hello kia ye data database meh ara hy ya nh ?",
+      "ts": "2025-09-15T12:50:13.853527"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Hello kia ye data database meh ara hy ya nh ? AR hy btao wrna nh koi bat nh",
+      "ts": "2025-09-15T12:55:32.018427"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Asharib this msg is for data checking",
+      "ts": "2025-09-15T13:02:15.291418"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Asharib this msg is for data checking 2",
+      "ts": "2025-09-15T13:03:56.927316"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Asharib this msg is for data checking 2",
+      "ts": "2025-09-15T13:06:01.172667"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Asharib this msg is for data checking 3",
+      "ts": "2025-09-15T13:07:54.976282"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Asharib this msg is for data checking 34",
+      "ts": "2025-09-15T13:28:19.905430"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "testing msg friom agent please report ajam karwayn",
+      "ts": "2025-09-15T17:44:49.979629"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Report bhej",
+      "ts": "2025-09-15T17:47:22.804353"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> BOSS (image)",
+      "type": "text",
+      "text": "image_20250915_174740.jpg",
+      "ts": "2025-09-15T17:47:45.196270"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE_MEDIA",
+      "type": "image",
+      "filename": "image_20250915_174740.jpg",
+      "media_id": "1319464209776290",
+      "local_path": "media\\Hafiz\\2025-09-15\\image_20250915_174740.jpg",
+      "ts": "2025-09-15T17:47:45.207735"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aj Ai Whatsap Bot meh apka number add krdia hy as an operator you can send msgs To bot .By this Command @working <Name> | Msg.....\n\nBut there's a One Issue Which is reporting employee ki report Text ki forward huri hy But Pdf/Image Forward nh huri \nBaki Analysis Well hy Both Side se  \n\n\n\nAi Call Center setup ka Stack Change krne ka bola Exotel A",
+      "ts": "2025-09-15T17:47:48.646500"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "report bhej",
+      "ts": "2025-09-15T17:54:02.279548"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aj Ai Whatsap Bot meh apka number add krdia hy as an operator you can send msgs To bot .By this Command @working <Name> | Msg.....\n\nBut there's a One Issue Which is reporting employee ki report Text ki forward huri hy But Pdf/Image Forward nh huri \nBaki Analysis Well hy Both Side se  \n\n\n\nAi Call Center setup ka Stack Change krne ka bola Exotel A",
+      "ts": "2025-09-15T17:54:08.685783"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aj Ai Whatsap Bot meh apka number add krdia hy as an operator you can send msgs To bot .By this Command @working <Name> | Msg.....\n\nBut there's a One Issue Which is reporting employee ki report Text ki forward huri hy But Pdf/Image Forward nh huri \nBaki Analysis Well hy Both Side se  \n\n\n\nAi Call Center setup ka Stack Change krne ka bola Exotel A",
+      "ts": "2025-09-15T18:03:16.579251"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aj Ai Whatsap Bot meh apka number add krdia hy as an operator you can send msgs To bot .By this Command @working <Name> | Msg.....\n\nBut there's a One Issue Which is reporting employee ki report Text ki forward huri hy But Pdf/Image Forward nh huri \nBaki Analysis Well hy Both Side se  \n\n\n\nAi Call Center setup ka Stack Change krne ka bola Exotel A",
+      "ts": "2025-09-15T18:12:39.363224"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aj Ai Whatsap Bot meh apka number add krdia hy as an operator you can send msgs To bot .By this Command @working <Name> | Msg.....\n\nBut there's a One Issue Which is reporting employee ki report Text ki forward huri hy But Pdf/Image Forward nh huri \nBaki Analysis Well hy Both Side se  \n\n\n\nAi Call Center setup ka Stack Change krne ka bola Exotel A",
+      "ts": "2025-09-15T18:26:08.555858"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aj Ai Whatsap Bot meh apka number add krdia hy as an operator you can send msgs To bot .By this Command @working <Name> | Msg.....\n\nBut there's a One Issue Which is reporting employee ki report Text ki forward huri hy But Pdf/Image Forward nh huri \nBaki Analysis Well hy Both Side se  \n\n\n\nAi Call Center setup ka Stack Change krne ka bola Exotel A",
+      "ts": "2025-09-15T18:34:06.206442"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aj Ai Whatsap Bot meh apka number add krdia hy as an operator you can send msgs To bot .By this Command @working <Name> | Msg.....\n\nBut there's a One Issue Which is reporting employee ki report Text ki forward huri hy But Pdf/Image Forward nh huri \nBaki Analysis Well hy Both Side se  \n\n\n\nAi Call Center setup ka Stack Change krne ka bola Exotel A",
+      "ts": "2025-09-15T18:37:23.964592"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Aj Ai Whatsap Bot meh apka number add krdia hy as an operator you can send msgs To bot .By this Command @working <Name> | Msg.....\n\nBut there's a One Issue Which is reporting employee ki report Text ki forward huri hy But Pdf/Image Forward nh huri \nBaki Analysis Well hy Both Side se  \n\n\n\nAi Call Center setup ka Stack Change krne ka bola Exotel A",
+      "ts": "2025-09-15T18:46:18.033904"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hello kia ye data show hura gy ?",
+      "ts": "2025-09-15T19:15:16.943235"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Asharib ! Aapni Choice sy Reply nahi Mery Msg ky Mutabiq each working ka point by point reply/Working kro & Read Fahad Msg.\n\nWhatsapp # Internal Office communication Ai Project mei bugs FIX & refresh krne per msg update ho rahe hai SET KRO.Wati jesay option add Krdo os main jis sy dashboard per chat ho sakay.\n\n&\n\nFahad/Haadi ky saath Head Office/5 Star ky Sab Staff ko msgs test & Project ke App bhi Mery Mobile mei install & Ready to use setup final krky do.\n\nChat Gpt ke File sy Whatsapp APi Ka Oracle software mei procedure study krky Azeem ka System Hack & Wati waly Whatsapp Api sy Clients ko Payment ky msg send kro.templet already approved hy.\n\n&\n\nkerlya mei issue hy tu AI CALL CENTRE REVELIANCE AI CHAT GPT ke File study kro,10 other services ke details hai.not eleven labs.Current AI Call Centre mostly ready made & limited 50-100 Calls per day ka IP Telephonic communication setup hy,cosider it like PTCL ON IP & DISCUSS WITH FAHAD.\n\nORIGNAL AI CALL CENTRE REVILIANCE AI PER BASED & FOR UPTO 1,000 USERS PER DAY HY.SATURDAY SY AI REBELIANCE CALL CENTRE PER WORKING START KRO.\n\nNOTE :\n\nZOHO SY SALES LEADS PER WORK NAHI KRO.PAHLY INTERNAL OFFICE COMMUNICATION PROJECT,ORACLE SOFTWARE HACK KRKY WATI WHATSAPP API SET & IP PHONE SET UP FINAL Kro",
+      "ts": "2025-09-16T10:50:19.190193"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "...",
+      "ts": "2025-09-16T10:50:39.268459"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> BOSS (document)",
+      "type": "text",
+      "text": "Bulk-Messaging-and-AI-Automation-Proposal-Car-Transportation-Business-USA.pdf",
+      "ts": "2025-09-16T11:09:03.922111"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE_MEDIA",
+      "type": "document",
+      "filename": "doc_20250916_110858.pdf",
+      "media_id": "1806615413370922",
+      "local_path": "media\\Hafiz\\2025-09-16\\doc_20250916_110858.pdf",
+      "ts": "2025-09-16T11:09:03.936191"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": ".",
+      "ts": "2025-09-16T11:09:07.439109"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hi",
+      "ts": "2025-09-16T11:35:04.921371"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "..",
+      "ts": "2025-09-16T12:22:32.072200"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> BOSS (document)",
+      "type": "text",
+      "text": "Bulk-Messaging-and-AI-Automation-Proposal-Car-Transportation-Business-USA.pdf",
+      "ts": "2025-09-16T12:38:20.881224"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE_MEDIA",
+      "type": "document",
+      "filename": "doc_20250916_123816.pdf",
+      "media_id": "24370471695894542",
+      "local_path": "media\\Hafiz\\2025-09-16\\doc_20250916_123816.pdf",
+      "ts": "2025-09-16T12:38:20.894710"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "...",
+      "ts": "2025-09-16T12:47:45.481059"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": ".",
+      "ts": "2025-09-16T12:47:59.968822"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Honey bunny How are you",
+      "ts": "2025-09-16T12:48:17.132278"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Abc",
+      "ts": "2025-09-16T12:48:46.617614"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hello Data check-in",
+      "ts": "2025-09-16T12:49:22.372849"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hu",
+      "ts": "2025-09-16T12:50:38.879401"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hy Data ara hy?",
+      "ts": "2025-09-16T12:52:01.400538"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hi",
+      "ts": "2025-09-16T13:16:24.458235"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": ".",
+      "ts": "2025-09-16T15:13:37.546606"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Gello kia ye msg ara hy ya nai ?   ye msg testing eke liye y hy Asharib kes ehu hafiz",
+      "ts": "2025-09-16T15:17:51.487835"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "Gello kia ye msg ara hy ya nai ?   ye msg testing eke liye y hy Asharib kes ehu hafiz",
+      "ts": "2025-09-16T15:18:39.105780"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "hello",
+      "ts": "2025-09-17T10:45:03.942331"
+    },
+    {
+      "from": "Boss",
+      "header": "BOSS -> EMPLOYEE (forwarded instruction)",
+      "type": "text",
+      "text": "hello",
+      "ts": "2025-09-17T13:15:02.633759"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "Hey",
+      "ts": "2025-09-17T14:48:46.921875"
+    },
+    {
+      "from": "Employee",
+      "header": "EMPLOYEE -> UPDATE",
+      "type": "text",
+      "text": "How are you",
+      "ts": "2025-09-17T16:25:31.157560"
+    }
+  ]
+}
