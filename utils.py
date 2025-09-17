@@ -5,7 +5,14 @@ import os
 def now_iso():
     return datetime.now(timezone.utc).isoformat()
 
-
+STORAGE_PATHS = {
+    "employees": Path("./employees.json"),
+    "tasks": Path("./tasks.jsonl"),
+    "events": Path("./events.jsonl"),
+    "reports": Path("./reports/"),
+    "reports_out": Path("./reports/out/"),
+    "media": Path("./media/"),
+}
 
 def mask_msisdn(msisdn: str) -> str:
     if len(msisdn) >= 7:
@@ -27,6 +34,21 @@ def append_jsonl(path, data):
     data["timestamp"] = now_iso()
     with open(path, "a", encoding="utf-8") as f:
         f.write(json.dumps(data, ensure_ascii=False) + "\n")
+def load_employees():
+    try:
+        with open(STORAGE_PATHS["employees"], "r", encoding="utf-8") as f:
+            raw = json.load(f)
+            upgraded = {}
+            default_pref = os.getenv("DELIVERY_DEFAULT", "auto")
+            for name, val in raw.items():
+                if isinstance(val, str):
+                    upgraded[name] = {"msisdn": val, "pref": default_pref}
+                else:
+                    val.setdefault("pref", default_pref)
+                    upgraded[name] = val
+            return upgraded
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
 
 def read_jsonl(path):
     if not Path(path).exists():
