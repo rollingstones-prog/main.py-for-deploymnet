@@ -1,6 +1,7 @@
 import os
 import time
-from main import BOSS_WA_ID, STORAGE_PATHS, load_employees, tts_to_file, wa_send_audio, whatsapp_send_text
+from config import BOSS_WA_ID, STORAGE_PATHS, WA_TOKEN, WA_PHONE_ID
+from utils import load_employees, tts_to_file, whatsapp_send_text, wa_send_audio
 
 
 def deliver_to_employee(name: str, msg_text: str, override: str = None) -> dict:
