@@ -1,0 +1,26 @@
+# Web framework
+fastapi
+uvicorn
+
+# Utilities
+python-dotenv
+requests
+pydub
+audioop-lts
+pillow
+imageio-ffmpeg
+
+# AI / APIs
+openai
+google-generativeai
+supabase
+
+# PDF / Docs Handling
+pdfminer.six
+reportlab
+
+# Optional (DOCX parsing)
+python-docx
+
+# Audio / Media
+ffmpeg-python
